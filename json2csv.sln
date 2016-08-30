@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json2csv", "json2csv\json2csv.csproj", "{D34F88E8-CC8B-49C5-B13E-D4622D104637}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json2csv", "json2csv.csproj", "{D34F88E8-CC8B-49C5-B13E-D4622D104637}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
